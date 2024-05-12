@@ -1,4 +1,4 @@
-# Convolutional Autoencoder for Image Denoising
+# EX 7 Convolutional Autoencoder for Image Denoising
 
 ## AIM
 
