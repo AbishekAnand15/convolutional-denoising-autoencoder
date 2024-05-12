@@ -7,10 +7,10 @@ To develop a convolutional autoencoder for image denoising application.
 ## Problem Statement and Dataset
 In this experiment, we use an autoencoder to process handwritten digit images from the MNIST dataset. The autoencoder learns to encode and decode the images, reducing noise through layers like MaxPooling and convolutional. Then, we repurpose the encoded data to build a convolutional neural network for classifying digits into numerical values from 0 to 9. The goal is to create an accurate classifier for handwritten digits removing noise.
 ### Dataset
-![image](https://github.com/Jenishajustin/convolutional-denoising-autoencoder/assets/119405070/e9551a34-7cfa-4058-95af-25a04c61cd89)
+![image](https://github.com/AbishekAnand15/convolutional-denoising-autoencoder/assets/118706942/4c1c4368-d312-475f-8e95-2de1d08b35ea)
 
 ## Convolution Autoencoder Network Model
-![Screenshot 2024-04-24 203449](https://github.com/Jenishajustin/convolutional-denoising-autoencoder/assets/119405070/709637a2-f1d9-437a-a962-7070e8e9b333)
+![image](https://github.com/AbishekAnand15/convolutional-denoising-autoencoder/assets/118706942/ac9d24dd-775e-408c-8e43-9a01e38f63a2)
 
 ## DESIGN STEPS
 
